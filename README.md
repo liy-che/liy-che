@@ -1,6 +1,6 @@
 ### Hello, World!
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Liying (<em>lee-ying</em>), a programmer for humans and machines. My current interests largely lies in learning, productivity, language learning, health, and automation. The graph below is automatically updated by <a href="https://github.com/liy-che/liy-che/actions" target="_blank">liy-che/actions</a> on a daily basis:
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Liying (<em>lee-ying</em>), a programmer for humans and machines. My current interest largely lies in learning, productivity, language learning, health, and automation. The graph below is automatically updated by <a href="https://github.com/liy-che/liy-che/actions" target="_blank">liy-che/actions</a> on a daily basis:
 
 <table width="960px">
 <tr>
