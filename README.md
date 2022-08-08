@@ -9,7 +9,8 @@
 #### 🐙 A Little About Me
 
 - 🌱 I'm a recent UMich grad in CS.
-- 👯 I'm using use C++ / Python / JavaScript.
+- 👯 I'm using C++ / Python / JavaScript.
+- 🍱 I love to learn and play with new technology.
 - 🔭 I'm open to full-time remote SWE role.
 - 📫 How to reach me: <a href = "mailto: liyche.dev@gmail.com">email here</a>
 
